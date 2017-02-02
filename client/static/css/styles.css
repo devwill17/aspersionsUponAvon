@@ -1,0 +1,10 @@
+#deal {
+  width: 200px;
+  height: auto;
+}
+
+fieldset {
+  display: inline-block;
+  width: 400px;
+  text-align: center;
+}
